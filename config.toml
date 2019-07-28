@@ -1,4 +1,4 @@
-baseURL = "https://jhepburn.io"
+baseURL = "http://attler.github.io"
 languageCode = "en-AU"
 title = "J Hepburn"
 theme = "resume"
