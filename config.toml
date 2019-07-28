@@ -1,4 +1,4 @@
-baseURL = "http://attler.github.io"
+baseURL = "https://jhepburn.io/"
 languageCode = "en-AU"
 title = "J Hepburn"
 theme = "resume"
@@ -16,8 +16,8 @@ theme = "resume"
     favicon = "images/favicon.ico"
 
     # what sections to display.  Setting to false disables navigation and section.
-    showSkills = true
-    showProjects = true
+    showSkills = false
+    showProjects = false
     showOpenSource = false
     showPublications = true
     showExperience = true

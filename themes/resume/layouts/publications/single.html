@@ -4,6 +4,9 @@
   <div class="my-auto">
     <h2 class="mb-0"><span class="text-primary">{{ .Title }}</span></h2>
     <!-- <p><a href="{{ .Params.link }}">Link to full {{ .Params.pubtype }}</a></p> -->
+    <div class="resume-date text-md-right my-2">
+      <span class="text-primary">{{ .Date.Format "January 2, 2006" }}</span>
+    </div>
     {{ with .Params.image }}<img src="{{ . }}" style="max-height:300px;max-width:30%;" align="right"/>{{ end }}
     {{ .Content }}
     <p class="mt-3">
