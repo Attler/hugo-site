@@ -1,0 +1,21 @@
+[
+    {
+        "school":"Macquarie University",
+        "degree":"Bachelor of Science",
+        "major":"Computing",
+        "notes":"I have achieved High Distinctions in Computer Science and Engineering subjects and Distinctions in Mathematics, Statistics and Social Science subjects. My current GPA is 6.0 of 7. I have been able to do some research in my degree and presented my work at ALTA 2018 in Dunedin, New Zealand.",
+        "range":"2014 - 2019"
+    },
+    {
+        "school":"UAC",
+        "degree":"Special Tertiary Admissions Test",
+        "notes":"In 2013 I completed a Special Tertiary Admissions Test (STAT) with a Verbal Percentile Rank of 83.8, a Quantitative Percentile Rank of 99.9 and Overall Percentile Rank of 99.2",
+        "range":"2013"
+    },
+    {
+        "school":"Hornsby TAFE",
+        "degree":"Cert III Electrotechnology",
+        "notes":"Studied Electrotechnology at Hornsby TAFE, as part of my Electrical Apprenticeship, where I achieved Credit and Distinction grades.",
+        "range":"2008 - 2010"
+    }
+]

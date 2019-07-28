@@ -1,0 +1,59 @@
+baseURL = "https://jhepburn.io"
+languageCode = "en-AU"
+title = "J Hepburn"
+theme = "resume"
+
+
+[params]
+    firstName = "Jason"
+    lastName = "Hepburn"
+    address = "Sydney Australia"
+    #phone = "1-555-555-1234"
+    #contactNote = "Dev Tools Engineer" #used in QR code only
+    profileImage = "img/me.png"
+    email = "jason.hepburn@students.mq.edu.au"
+    description = "Computer Science Researcher"
+    favicon = "images/favicon.ico"
+
+    # what sections to display.  Setting to false disables navigation and section.
+    showSkills = true
+    showProjects = true
+    showOpenSource = false
+    showPublications = true
+    showExperience = true
+    showEducation = true
+    showQr = false
+
+    # do you want to show git hash on page footer and link to repo? Add commit URl for repo here.
+    gitCommitPrefix = "https://github.com/YOURNAME/REPONAME/commit/"
+
+
+[[params.handles]]
+    name = "LinkedIn"
+    link = "https://www.linkedin.com/in/jason-hepburn-b585701a/"
+
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/attler/"
+
+
+[[params.handles]]
+    name = "Google Scholar"
+    link = "https://scholar.google.com.au/citations?user=GsjbRuAAAAAJ"
+    #icon = "key" #optional icon attribute used for Font Awesome icons, otherwise the name is lowercased.
+
+[[params.handles]]
+    name = "Facebook"
+    link = "https://www.facebook.com/CautionAI"
+    icon = "facebook"
+
+[[params.handles]]
+    name = "Twitter"
+    link = "https://twitter.com/jj_hepboin"
+    icon = "twitter"
+
+[params.google.analytics]
+    trackerID = "UA-131805281-1"
+
+[outputs] #only required for search
+    home = ["HTML", "JSON"]

@@ -1,0 +1,26 @@
+[
+    {
+        "role":"Data Services Director",
+        "company":"CanvasU",
+        "summary":"Use web technologies to develop, test and administer data collection instruments for online and telephone quantitative research projects. Code, clean and de-identify data using statistical packages such as SPSS.",
+        "range":"2017 - Present"
+    },
+    {
+        "role":"Data Analyst",
+        "company":"CanvasU",
+        "summary":"Manage a number of ongoing research project for tracking economic indices and key customer service metrics such as net promoter score.",
+        "range":"2015 - 2017"
+    },
+    {
+        "role":"Maintenance and Electrical",
+        "company":"Elastotech",
+        "summary":"Elastotech is a manufacturer of a variety of rubber and ceramic based mining products. During my time there I have worked in general production, equipment maintenance, and system planning and improvement. This has often involved working with a flexible timetable and with tight deadlines.",
+        "range":"2010 - March 2014"
+    },
+    {
+        "role":"Apprentice Electrician",
+        "company":"Centech Electrics",
+        "summary":"During my electrical apprenticeship I worked in industrial and commercial electrical, lighting, data and communications, security systems and CCTV. I was also required to engage with clients and other trades as well as collect data, as projects progressed",
+        "range":"2007 - March 2010"
+    }
+]
